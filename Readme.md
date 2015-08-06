@@ -1,6 +1,6 @@
 # Opal Raw
 
-A very fast opal setup - includes opal browser - have them vendored already in js files
+A very fast opal setup - includes opal browser - has them vendored already in js files
 
 Open the project in a webserver:
 
